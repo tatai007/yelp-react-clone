@@ -1,5 +1,5 @@
 {
-  "name": "yelp react clone",
+  "name": "yelp-react-clone",
   "version": "1.0.0",
   "description": "A react clone of yelp",
   "scripts": {
@@ -16,6 +16,7 @@
   "dependencies": {
     "classnames": "^2.2.5",
     "font-awesome": "^4.7.0",
+    "google-map-react": "^0.22.3",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "react-router": "^3.0.2",
